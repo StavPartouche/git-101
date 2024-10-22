@@ -14,3 +14,4 @@ Commands:
 - git branch <branch-name>: create branch
 - git switch <branch-name>: move to a branch
 - git switch -c <branch-name>: creates and switches to a new branch
+- I'm a text
